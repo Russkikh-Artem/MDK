@@ -4,7 +4,7 @@
 	background: #17bebb;
 }
 .bg_white{
-	background: #ffffff;
+	background: #ffffff;	
 }
 .bg_light{
 	background: #f7fafa;
@@ -77,12 +77,14 @@ table{
 
 .logo h1{
 	margin: 0;
+	font-weight:bold;
 }
 .logo h1 a{
 	color: #17bebb;
 	font-size: 24px;
 	font-weight: 700;
 	font-family: 'Work Sans', sans-serif;
+
 }
 
 /*HERO*/
