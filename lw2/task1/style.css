@@ -5,17 +5,18 @@
   font-weight: normal;
 }
 body{	 
-  color: white; 
+  background: #000;
+   
   margin: 0;
   font-family: josefinsans;
 
 }
+.dark-background{
+  color: white;
+}
 .white-background{
 	background: #fff;
 	color: #000;
-}
-.dark-background{
-  background: #000;
 }
 img{
 	height: 208px;
@@ -59,7 +60,7 @@ h3{
   margin: 0px auto 0;
 }
 
-.my-flex-container{
+.content-container{
   display: flex;
   width: 1360px;
   margin: 100px 200px 0 400px;
